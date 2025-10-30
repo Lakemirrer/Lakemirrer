@@ -1,1 +1,6 @@
 Hi! I have no idea what I'm doing. Well I do, sort of. I am new to GitHub. I do know mostly how markdown files work, *This is how you italizize* # controls header stuff **Bold** ***Bold Italizize*** Yeah. 
+
+# Current Projects
+ - NYI Quizzing Golf
+ - Java Tic Tac Toe
+ - Learning Java
